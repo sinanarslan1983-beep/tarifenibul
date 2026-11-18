@@ -1,6 +1,6 @@
 {
-  "guncelleme": "17.11.2026 11:18",
-  "toplam_tarife": 112,
+  "guncelleme": "18.11.2026 10:50",
+  "toplam_tarife": 122,
   "kaynaklar": [
     "https://www.vodafone.com.tr/numara-tasima-yeni-hat/tarifeler/new/postpaid/ALL",
     "https://www.turkcell.com.tr/paket-ve-tarifeler/faturali-hat",
@@ -896,6 +896,186 @@
       "fiyat_mnt": 540,
       "fiyat_yeni_hat": 510,
       "internet": "50 GB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "5G"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Vodafone",
+      "isim": "SUPER 5G Plus 5GB Paketi",
+      "fiyat": 340,
+      "fiyat_mnt": 306,
+      "fiyat_yeni_hat": 289,
+      "internet": "5GB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "5G"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Vodafone",
+      "isim": "1000 DK + 250 SMS",
+      "fiyat": 340,
+      "fiyat_mnt": 306,
+      "fiyat_yeni_hat": 289,
+      "internet": "5 GB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "5G"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Vodafone",
+      "isim": "SUPER 5G Plus 10GB Paketi",
+      "fiyat": 370,
+      "fiyat_mnt": 333,
+      "fiyat_yeni_hat": 314,
+      "internet": "10GB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "5G"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Vodafone",
+      "isim": "1000 DK + 250 SMS",
+      "fiyat": 370,
+      "fiyat_mnt": 333,
+      "fiyat_yeni_hat": 314,
+      "internet": "10 GB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "5G"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Vodafone",
+      "isim": "SUPER 5G Plus 20GB Paketi",
+      "fiyat": 480,
+      "fiyat_mnt": 432,
+      "fiyat_yeni_hat": 408,
+      "internet": "20GB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "5G"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Vodafone",
+      "isim": "1000 DK + 250 SMS",
+      "fiyat": 480,
+      "fiyat_mnt": 432,
+      "fiyat_yeni_hat": 408,
+      "internet": "20 GB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "5G"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Vodafone",
+      "isim": "SUPER 5G Plus 1GB Paketi",
+      "fiyat": 300,
+      "fiyat_mnt": 270,
+      "fiyat_yeni_hat": 255,
+      "internet": "1GB",
+      "dk": "3000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "5G"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Vodafone",
+      "isim": "3000 DK + 250 SMS",
+      "fiyat": 300,
+      "fiyat_mnt": 270,
+      "fiyat_yeni_hat": 255,
+      "internet": "1 GB",
+      "dk": "3000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "5G"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Vodafone",
+      "isim": "SUPER 5G Plus 30GB Paketi",
+      "fiyat": 590,
+      "fiyat_mnt": 531,
+      "fiyat_yeni_hat": 502,
+      "internet": "30GB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": false,
+      "avantajlar": [
+        "5G"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Vodafone",
+      "isim": "1000 DK + 250 SMS",
+      "fiyat": 590,
+      "fiyat_mnt": 531,
+      "fiyat_yeni_hat": 502,
+      "internet": "30 GB",
       "dk": "1000",
       "sms": "250",
       "yas_grubu": "Herkes",
