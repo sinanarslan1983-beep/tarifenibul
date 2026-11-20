@@ -1,6 +1,6 @@
 {
-  "guncelleme": "18.11.2026 10:50",
-  "toplam_tarife": 122,
+  "guncelleme": "20.11.2026 10:40",
+  "toplam_tarife": 125,
   "kaynaklar": [
     "https://www.vodafone.com.tr/numara-tasima-yeni-hat/tarifeler/new/postpaid/ALL",
     "https://www.turkcell.com.tr/paket-ve-tarifeler/faturali-hat",
@@ -2120,6 +2120,60 @@
       "fiyat_mnt": 450,
       "fiyat_yeni_hat": 425,
       "internet": "120 GB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "TV+"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Turkcell",
+      "isim": "Kamu Star+ 12 GB",
+      "fiyat": 560,
+      "fiyat_mnt": 504,
+      "fiyat_yeni_hat": 476,
+      "internet": "12 GB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "TV+"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Turkcell",
+      "isim": "Kamu Star+ 16 GB",
+      "fiyat": 660,
+      "fiyat_mnt": 594,
+      "fiyat_yeni_hat": 561,
+      "internet": "16 GB",
+      "dk": "1000",
+      "sms": "250",
+      "yas_grubu": "Herkes",
+      "kategori": "Standart",
+      "yurtdisi": "0dk",
+      "populer": true,
+      "avantajlar": [
+        "TV+"
+      ],
+      "taahhut": 12
+    },
+    {
+      "operator": "Turkcell",
+      "isim": "Kamu Star+ 25 GB",
+      "fiyat": 780,
+      "fiyat_mnt": 702,
+      "fiyat_yeni_hat": 663,
+      "internet": "25 GB",
       "dk": "1000",
       "sms": "250",
       "yas_grubu": "Herkes",
